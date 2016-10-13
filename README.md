@@ -7,3 +7,6 @@ this repository.
 ![image1](images/wallshot1.jpg)
 ![image2](images/wallshot2.jpg) 
 
+# Commit messages
+We used [Einar's](http://3inar.github.io)
+[GEThub](https://github.com/3inar/GEThub) to gather the commit messages.
